@@ -1,1 +1,1 @@
-esto es un proyecto de pruebas git
+prueba de git
